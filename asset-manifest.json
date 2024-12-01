@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/liana_v_ch/static/css/main.855ecbee.css",
+    "main.js": "/liana_v_ch/static/js/main.7be91540.js",
+    "static/media/ModelGirl.webp": "/liana_v_ch/static/media/ModelGirl.287f3b0b386905f1e7be.webp",
+    "static/media/GT-Sectra-Italic.ttf": "/liana_v_ch/static/media/GT-Sectra-Italic.74e30d2021c2881ff00f.ttf",
+    "static/media/GT-Sectra.ttf": "/liana_v_ch/static/media/GT-Sectra.bda190f255d043a2b4cc.ttf",
+    "index.html": "/liana_v_ch/index.html",
+    "main.855ecbee.css.map": "/liana_v_ch/static/css/main.855ecbee.css.map",
+    "main.7be91540.js.map": "/liana_v_ch/static/js/main.7be91540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.855ecbee.css",
+    "static/js/main.7be91540.js"
+  ]
+}
